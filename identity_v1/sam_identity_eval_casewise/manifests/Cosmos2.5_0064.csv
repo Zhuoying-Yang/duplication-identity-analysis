@@ -1,0 +1,2 @@
+case,label,eval_split,dataset,object_prompt,video_path,source_path
+Cosmos2.5_0064,1,HELDOUT_POS,Cosmos2.5,white cube,/shared/ssd_30T/zhuoyingyang/physact/cosmos_predict25/native_outputs/robowm_68_full/0064.mp4,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/images/0064.png

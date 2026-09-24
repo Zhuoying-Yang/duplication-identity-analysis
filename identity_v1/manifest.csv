@@ -1,0 +1,4 @@
+case,dataset,gt,video_path
+Cosmos2.5_0016,Cosmos2.5,1,/shared/ssd_30T/zhuoyingyang/physact/cosmos_predict25/native_outputs/robowm_68_full/0016.mp4
+Cosmos3_seed101_0003,Cosmos3_seed101,1,/shared/ssd_30T/zhuoyingyang/physact/cosmos3/export_robowm68_3seeds/seed101/0003.mp4
+LVP_0004,LVP,1,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/videos/0004.mp4

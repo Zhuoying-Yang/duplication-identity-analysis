@@ -1,0 +1,7 @@
+case,object_prompt,video_path,source_path
+Cosmos2.5_0036,white tape roll,/shared/ssd_30T/zhuoyingyang/physact/cosmos_predict25/native_outputs/robowm_68_full/0036.mp4,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/images/0036.png
+Cosmos2.5_0057,yellow cube,/shared/ssd_30T/zhuoyingyang/physact/cosmos_predict25/native_outputs/robowm_68_full/0057.mp4,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/images/0057.png
+Cosmos3_seed101_0039,brown cube,/shared/ssd_30T/zhuoyingyang/physact/cosmos3/export_robowm68_3seeds/seed101/0039.mp4,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/images/0039.png
+Cosmos3_seed101_0049,yellow banana,/shared/ssd_30T/zhuoyingyang/physact/cosmos3/export_robowm68_3seeds/seed101/0049.mp4,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/images/0049.png
+LVP_0062,brown cup,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/videos/0062.mp4,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/images/0062.png
+LVP_0043,button,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/videos/0043.mp4,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/images/0043.png

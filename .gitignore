@@ -1,0 +1,31 @@
+# Large/generated media
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Model / tensor files
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.npz
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs / caches
+*.log
+.cache/
+
+# Generated/debug data
+_tmp/
+debug/
+debug_frames/
+crops/

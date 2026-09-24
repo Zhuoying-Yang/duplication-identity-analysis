@@ -1,0 +1,21 @@
+# Seed102 / Seed103 Duplication Re-audit
+
+**Definition:** Duplication means that the manipulated target object, or a recognizable component of that target, spontaneously gains an additional instance without a plausible physical source. Unrelated newly appearing objects are categorized separately as spontaneous object appearance. Deformation is not considered duplication.
+
+| case | dup_label | strict_eval_use | category | confidence | human_note |
+| --- | --- | --- | --- | --- | --- |
+| Cosmos3_seed102_0006 | 0.0 | YES | DEFORMATION | HIGH | Gripper suddenly grows an extra piece / changes shape; this is deformation, not a duplicated target instance. |
+| Cosmos3_seed102_0008 | 1.0 | YES | OBJECT_DUPLICATION | HIGH | Confirmed duplication. |
+| Cosmos3_seed102_0010 | 1.0 | YES | OBJECT_DUPLICATION | HIGH | Confirmed duplication. |
+| Cosmos3_seed102_0062 | 0.0 | YES | SPONTANEOUS_OBJECT_APPEARANCE | HIGH | After the cup is placed down, a spoon suddenly appears inside the cup. This is an unrelated new object, not duplication of the target. |
+| Cosmos3_seed102_0064 | 0.0 | YES | SPONTANEOUS_OBJECT_APPEARANCE | HIGH | While manipulating the cup, a white block suddenly appears in the robot hand. It is not a duplicate of the cup. |
+| Cosmos3_seed103_0006 | 0.0 | YES | DEFORMATION | HIGH | The robot end-effector deforms and gains an extra piece; there is no duplicated target instance. |
+| Cosmos3_seed103_0010 | 1.0 | YES | OBJECT_DUPLICATION | HIGH | A duplicated cup suddenly appears/drops. |
+| Cosmos3_seed103_0012 | 1.0 | YES | PART_DUPLICATION | HIGH | An extra cup-lid-like part appears and attaches to the robot arm. The current detector does not produce a box for this duplicated part. |
+| Cosmos3_seed103_0013 | 1.0 | YES | OBJECT_DUPLICATION | MEDIUM | Human review confirms that this case counts as duplication. |
+| Cosmos3_seed103_0017 |  | NO | AMBIGUOUS_DUPLICATION | MEDIUM_LOW | Appears duplication-like, but the event is not clean enough to confidently include in the strict duplication evaluation. |
+| Cosmos3_seed103_0056 |  | NO | AMBIGUOUS_RESIDUAL_FRAGMENT | LOW | After the robot drops the cube, a very small yellow residual remains on the gripper. It is unclear whether this is true duplication or a residual visual artifact. |
+| Cosmos3_seed103_0058 | 0.0 | YES | DEFORMATION | HIGH | The cup suddenly develops an additional handle; this is deformation rather than duplication. |
+| Cosmos3_seed103_0060 | 0.0 | YES | DEFORMATION | HIGH | The cup develops an additional handle; this is deformation rather than duplication. |
+| Cosmos3_seed103_0062 | 0.0 | YES | DEFORMATION | HIGH | Clear deformation with no duplicated object instance. |
+| Cosmos3_seed103_0064 | 0.0 | YES | SPONTANEOUS_OBJECT_APPEARANCE | HIGH | While taking/manipulating the cup, a square object suddenly appears/emerges from it. This is unrelated object appearance rather than target duplication. |

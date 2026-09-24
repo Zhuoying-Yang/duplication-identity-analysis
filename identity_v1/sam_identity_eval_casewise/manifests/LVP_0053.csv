@@ -1,0 +1,2 @@
+case,label,eval_split,dataset,object_prompt,video_path,source_path
+LVP_0053,1,HELDOUT_POS,LVP,yellow cube,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/videos/0053.mp4,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/images/0053.png

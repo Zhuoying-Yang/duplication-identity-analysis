@@ -1,0 +1,4 @@
+case,dataset,gt,video_path,pred,pA,pB,pC,identity_violation_score,n_grids
+Cosmos2.5_0016,Cosmos2.5,1,/shared/ssd_30T/zhuoyingyang/physact/cosmos_predict25/native_outputs/robowm_68_full/0016.mp4,A,0.999967098236084,1.1478522537800018e-05,2.1444702724693343e-05,0.002718396399359335,6
+Cosmos3_seed101_0003,Cosmos3_seed101,1,/shared/ssd_30T/zhuoyingyang/physact/cosmos3/export_robowm68_3seeds/seed101/0003.mp4,A,0.9999836683273315,3.2887062388908817e-06,1.3007084817218129e-05,0.001465143793666357,6
+LVP_0004,LVP,1,/shared/ssd_30T/zhuoyingyang/physact/evaluation_results/robowm_lvp_68_numbered/videos/0004.mp4,A,0.9999970197677612,4.4508388441499847e-07,2.5612810077291215e-06,0.00027838229499366207,6
